@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\PycharmProjects\\tensorflowlianxi\\save_ckpt/pt"
+all_model_checkpoint_paths: "D:\\PycharmProjects\\tensorflowlianxi\\save_ckpt/pt"

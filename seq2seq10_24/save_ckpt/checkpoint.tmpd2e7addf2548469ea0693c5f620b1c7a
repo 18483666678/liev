@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\PycharmProjects\\seq2seq10_24\\save_ckpt/pt"
+all_model_checkpoint_paths: "D:\\PycharmProjects\\seq2seq10_24\\save_ckpt/pt"
